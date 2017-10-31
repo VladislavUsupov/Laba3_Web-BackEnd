@@ -1,0 +1,3 @@
+[{"id":"1", "name":"Yoda", "image":"Yoda.png", "power":"300", "speed":"30"}, 
+{"id":"2", "name":"Darth Vader", "image":"DarthVader.png", "power":"250", "speed":"25"},
+{"id":"3", "name":"Luke Skywalker", "image":"LukeSkywalker.png", "power":"275", "speed":"40"}]
